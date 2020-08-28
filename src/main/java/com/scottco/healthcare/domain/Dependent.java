@@ -1,7 +1,7 @@
 package com.scottco.healthcare.domain;
 
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
-import util.DateHandler;
+import com.scottco.healthcare.util.DateHandler;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
